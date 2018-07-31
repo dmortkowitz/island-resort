@@ -36,6 +36,11 @@ Please contact us at *blank@blank.com* for more information.
 * Git
 * GitHub
 
+## Link to GitHub Pages
+
+sn31.github.io/island-resort
+dmortkowitz.github.io/island-resort
+
 ### License
 
 #### Copyright (c) 2018 Skye Nguyen, David Mortkowitz
