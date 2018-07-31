@@ -45,4 +45,4 @@ dmortkowitz.github.io/island-resort
 
 #### Copyright (c) 2018 Skye Nguyen, David Mortkowitz
 
-#### This mock website was inspired by [Petit St. Vincent Island Resort] (http://www.petitstvincent.com/ "Petit St Vincent")
+#### This mock website was inspired by [Petit St. Vincent Island Resort](http://www.petitstvincent.com)
